@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&lines=Junior+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%40+Learning+Software+Technologies+Ltd;Java+%7C+PHP+%7C+Python+%7C+C%2B%2B+%7C+C%23;Spring+Boot+%7C+React+%7C+MySQL+%7C+SQL+Server;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&lines=Junior+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%40+Learning+Shaper+Technologies+Ltd;Java+%7C+PHP+%7C+Python+%7C+C%2B%2B+%7C+C%23;Spring+Boot+%7C+React+%7C+MySQL+%7C+SQL+Server;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 <!-- View counter + followers -->
@@ -20,7 +20,7 @@
 ```typescript
 const FaisalAhmed = {
   title:            "Junior Software Engineer",
-  company:          "Learning Software Technologies Limited",
+  company:          "Learning Shaper Technologies Limited",
   companyUrl:       "https://learningshaper.com/",
   stack: {
     languages:      ["Java", "JavaScript", "PHP", "Python", "C++", "C#"],
