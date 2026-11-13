@@ -1,203 +1,209 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Faisal%20Ahmed&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Junior%20Software%20Engineer&descAlignY=56&descSize=22" width="100%"/>
+<!-- ======================================================== -->
+<!-- FAISAL AHMED — GITHUB PROFILE MASTER README               -->
+<!-- Designed to align with: Faisal Ahmed.portfolio           -->
+<!-- ======================================================== -->
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=720&lines=Junior+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;%40+Learning+Shaper+Technologies+Ltd;Java+%7C+PHP+%7C+Python+%7C+C%2B%2B+%7C+C%23;Spring+Boot+%7C+React+%7C+MySQL+%7C+SQL+Server;Always+building%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG"/>
-</p>
+<div align="center">
 
-<!-- View counter + followers -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FaisalWebZone&label=Profile+Views&color=7dd3fc&style=flat-square" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/FaisalWebZone?label=Followers&style=flat-square&color=7dd3fc&labelColor=0d1117" alt="Followers"/>
-</p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=220&section=header&text=Faisal%20Ahmed&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Junior%20Software%20Engineer%20%7C%20Enterprise%20ERP%20%26%20AI%20Researcher&descAlignY=58&descSize=19" width="100%" alt="Faisal Ahmed Banner"/>
+
+  <!-- Typing SVG -->
+  <a href="https://faisalwebzone.github.io/Faisal-Ahmed.portfolio.html">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=780&lines=Junior+Software+Engineer+%40+Learning+Shaper+Technologies+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Enterprise+ERP+%26+Multi-Tenant+SaaS+Architect+%F0%9F%9A%80;Spring+Boot+3+%7C+Java+21+%7C+React+18+%7C+Laravel+12;Deep+Learning+Researcher+%F0%9F%A7%A0+ViT-GNN-TCN+Thesis+(AIUB);Building+high-performance%2C+scalable+software+%E2%9C%A8" alt="Typing SVG"/>
+  </a>
+
+  <p align="center">
+    <a href="https://faisalwebzone.github.io/Faisal-Ahmed.portfolio.html">
+      <img src="https://img.shields.io/badge/Live%20Portfolio-00f0ff?style=for-the-badge&logo=google-chrome&logoColor=0d1117" alt="Portfolio"/>
+    </a>
+    &nbsp;
+    <a href="https://faisalwebzone.github.io/faisal-ahmed.cv.html">
+      <img src="https://img.shields.io/badge/Official%20CV-00d2ff?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=0d1117" alt="CV"/>
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/faisal-ahmed-4a810033a/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="https://learningshaper.com/">
+      <img src="https://img.shields.io/badge/Learning%20Shaper-238636?style=for-the-badge&logo=building&logoColor=white" alt="Learning Shaper"/>
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=FaisalWebZone&label=Profile+Views&color=00f0ff&style=flat-square" alt="Profile Views"/>
+    &nbsp;
+    <img src="https://img.shields.io/github/followers/FaisalWebZone?label=Followers&style=flat-square&color=00d2ff&labelColor=0d1117" alt="Followers"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/B.Sc.%20in%20CSE-AIUB-blue?style=flat-square&color=1f6feb&labelColor=0d1117" alt="AIUB"/>
+    &nbsp;
+    <img src="https://img.shields.io/badge/Location-Dhaka%20%7C%20Narayanganj%2C%20BD-brightgreen?style=flat-square&color=238636&labelColor=0d1117" alt="Location"/>
+  </p>
+
+</div>
 
 ---
 
-## 🧑‍💻 Who I Am
+### 👨‍💻 Executive Summary
 
 ```typescript
-const FaisalAhmed = {
-  title:            "Junior Software Engineer",
-  company:          "Learning Shaper Technologies Limited",
-  companyUrl:       "https://learningshaper.com/",
-  stack: {
-    languages:      ["Java", "JavaScript", "PHP", "Python", "C++", "C#"],
-    frontend:       ["React", "Vite", "HTML5", "CSS3"],
-    backend:        ["Spring Boot", "ASP.Net", "PHP", "Python"],
-    databases:      ["MySQL", "SQL Server (MSSQL)"],
-    tools:          ["Gradle", "IntelliJ IDEA", "Git", "GitHub", "VS Code"],
-  },
-  launchedProjects: [
-    "Library Management System (C#)",
-    "Perfume Decant Management App (Python)",
-    "Recipe Sharing Platform (PHP)",
-    "Cargo Logistics Visualization (C++)",
-    "Restaurant Order & Table Management (ASP.Net)",
-    "SmartProduction Hub — Garment Tracker (WIP 🚧)",
+const FaisalAhmed: DeveloperProfile = {
+  currentRole:      "Junior Software Engineer",
+  organization:     "Learning Shaper Technologies Limited",
+  education:        "B.Sc. in Computer Science & Engineering (AIUB)",
+  coreExpertise:    [
+    "Multi-Tenant Enterprise ERP / SaaS Systems",
+    "Double-Entry Accounting & Ledger Architecture",
+    "Deep Learning & Affective Computing (ViT / GNN / TCN)",
+    "High-Concurrency RESTful APIs & Cloud Microservices"
   ],
-  certifications:   [],
-  status:           "Building & Learning 🚧",
-  openTo:           ["Collaborations", "Open Source", "Junior Roles"],
+  primaryTechStack: {
+    backend:        ["Java 21", "Spring Boot 3", "Laravel 12", "ASP.NET Core", "Python"],
+    frontend:       ["React 18", "Vite", "TypeScript", "Tailwind CSS", "Alpine.js"],
+    database:       ["MySQL", "PostgreSQL", "Microsoft SQL Server", "Redis"],
+    devOps:         ["Docker", "Git/GitHub", "Gradle", "Maven", "Postman"]
+  },
+  currentlyBuilding: "BanikOS (Multi-Tenant ERP) & Timesheet Enterprise ERP",
+  openTo:           ["High-Impact Engineering Roles", "Enterprise Systems", "Research Collaboration"]
 };
 ```
 
 ---
 
-## 🚀 Featured Projects
+### 🏢 Production Enterprise Systems & SaaS Platforms
+*Mission-critical production applications engineered at **Learning Shaper Technologies Limited**:*
 
-### 📚 Library Management System
-
-> A C# application for managing books, members, and loan records in a library.
-
-| Layer | Technology |
-|---|---|
-| Language | C# |
-| Framework | .NET |
-| Database | SQL Server |
-
-<p align="center">
-  <a href="https://github.com/FaisalWebZone/Library_Mangement_Project-Faisal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FaisalWebZone&repo=Library_Mangement_Project-Faisal&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=cad3f5&icon_color=7dd3fc" alt="Library Management System"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/FaisalWebZone/Library_Mangement_Project-Faisal">
-    <img src="https://img.shields.io/badge/View%20Code-7dd3fc?style=for-the-badge&logo=github&logoColor=0d1117" alt="View Code"/>
-  </a>
-</p>
+| System | Core Architecture & Stack | Key Modules & Business Impact |
+|:---|:---|:---|
+| **BanikOS** | **Laravel 12 · MySQL · Alpine.js · Tailwind** | Multi-tenant cloud ERP with offline-first POS synchronization, double-entry automated accounting, purchase-to-stock warehouse ledgers, and courier/COD automated reconciliations. |
+| **Timesheet Enterprise ERP** | **Java 21 · Spring Boot 3 · React 18 · MSSQL** | Enterprise workforce telemetry platform managing shift allocations, geofenced automated attendance, multi-tiered overtime rules, and real-time audit logs. |
+| **Sales ERP** | **Spring Boot 3 · React 18 · MySQL · Redis** | High-throughput inventory tracking, multi-branch POS cashier terminals, dynamic discount matrices, and tax/VAT reporting pipelines. |
+| **Smart Production Hub** | **Java 21 · Spring Boot 3 · React 18** | Apparel manufacturing & supply chain ERP tracking fabric inspection, cutting tables, line-balancing throughput, and shipment QA gates. |
+| **SuperAdmin Hub** | **Laravel 12 · PostgreSQL · REST APIs** | Centralized SaaS orchestrator providing tenant provisioning, automated database migration dispatchers, license metering, and subscription billing. |
 
 ---
 
-### 🧴 Perfume Decant Management App
+### 🧠 Deep Learning & Affective Computing Research
+*Undergraduate Thesis & Scientific Research at **American International University-Bangladesh (AIUB)**:*
 
-> A Python-based desktop application for managing perfume decant inventory and orders.
-
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Type | Desktop App |
-
-<p align="center">
-  <a href="https://github.com/FaisalWebZone/Perfume_Decant_Management_App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FaisalWebZone&repo=Perfume_Decant_Management_App&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=cad3f5&icon_color=7dd3fc" alt="Perfume Decant Management App"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/FaisalWebZone/Perfume_Decant_Management_App">
-    <img src="https://img.shields.io/badge/View%20Code-7dd3fc?style=for-the-badge&logo=github&logoColor=0d1117" alt="View Code"/>
-  </a>
-</p>
+> #### 🔬 **Beyond Hand Gestures: A Hybrid Deep Learning Framework for Joint Sign Language and Facial Emotion Recognition**
+> - **Architecture:** Hybrid **Vision Transformer (ViT)** + **Graph Neural Network (GNN)** + **Temporal Convolutional Network (TCN)**.
+> - **Technical Stack:** Python, PyTorch, MediaPipe Holistic, OpenCV, Scikit-learn, CUDA.
+> - **Core Innovation:** Integrates spatial structural landmarks of facial affective expressions with spatio-temporal gesture coordinate sequences, breaking the barrier of emotionless sign language translation.
 
 ---
 
-### 🍕 Recipe Sharing Platform
+### 🛠️ Technical Arsenal & Ecosystem
 
-> A PHP web application for sharing and discovering recipes online.
+<div align="center">
 
-| Layer | Technology |
-|---|---|
-| Language | PHP |
-| Frontend | HTML, CSS |
-| Database | MySQL |
-
-<p align="center">
-  <a href="https://github.com/FaisalWebZone/Recipe_Sharing_Platform_Project-with-PHP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FaisalWebZone&repo=Recipe_Sharing_Platform_Project-with-PHP&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=cad3f5&icon_color=7dd3fc" alt="Recipe Sharing Platform"/>
-  </a>
+#### **Languages & Core Runtimes**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php,python,cpp,cs&theme=dark" alt="Languages"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/FaisalWebZone/Recipe_Sharing_Platform_Project-with-PHP">
-    <img src="https://img.shields.io/badge/View%20Code-7dd3fc?style=for-the-badge&logo=github&logoColor=0d1117" alt="View Code"/>
-  </a>
+#### **Enterprise Backend & Architecture**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,laravel,dotnet,fastapi&theme=dark" alt="Backend"/>
 </p>
+
+#### **Modern Frontend & User Interfaces**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,bootstrap&theme=dark" alt="Frontend"/>
+</p>
+
+#### **Data Storage & Caching Engines**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite&theme=dark" alt="Databases"/>
+</p>
+
+#### **DevOps, Automation & Engineering Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,gradle,idea,vscode&theme=dark" alt="Tools"/>
+</p>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Selected Academic & Open-Source Projects
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,php,python,cpp,cs&theme=dark" alt="Languages"/>
-</p>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=dark" alt="Frontend"/>
-</p>
-
-**Backend & Frameworks**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet&theme=dark" alt="Backend"/>
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases"/>
-</p>
-
-**Dev Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=gradle,git,github,idea,vscode&theme=dark" alt="Dev Tools"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/FaisalWebZone/Restaurant_Order_Table_Management-ASP.Net">🍽️ Restaurant Order & Table Management</a></h4>
+      <p>Enterprise ASP.NET Core MVC application managing live table bookings, kitchen order tickets (KOT), billing settlements, and floor staff permissions.</p>
+      <p><b>Stack:</b> <code>C#</code> · <code>ASP.NET Core</code> · <code>SQL Server</code> · <code>Bootstrap</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/FaisalWebZone/Cargo_Logistics_Visualization_Graphics">🚢 Cargo Logistics Visualization</a></h4>
+      <p>Interactive 2D/3D graphics simulation illustrating container movement from logistics warehouse docks to international ocean vessels.</p>
+      <p><b>Stack:</b> <code>C++</code> · <code>OpenGL</code> · <code>Computer Graphics</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/FaisalWebZone/Recipe_Sharing_Platform_Project-with-PHP">🍲 Recipe Sharing Platform</a></h4>
+      <p>Dynamic community web application with recipe authoring, multi-category indexing, review/rating systems, and media uploads.</p>
+      <p><b>Stack:</b> <code>PHP 8</code> · <code>MySQL</code> · <code>JavaScript</code> · <code>CSS3</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/FaisalWebZone/Library_Mangement_Project-Faisal">📚 Library Management System</a></h4>
+      <p>Desktop management suite automating book cataloging, barcode tracking, membership fines, and loan renewals with SQL transactional safety.</p>
+      <p><b>Stack:</b> <code>C#</code> · <code>.NET WinForms</code> · <code>SQL Server</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Activity & Streak Telemetry
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaisalWebZone&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=cad3f5&icon_color=7dd3fc&hide_border=false&count_private=true" height="180" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaisalWebZone&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=cad3f5" height="180" alt="Top Languages"/>
-</p>
+<div align="center">
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FaisalWebZone&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FaisalWebZone&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaisalWebZone&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" alt="Contribution Activity Graph"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/faisal-ahmed-4a810033a/">
-    <img src="https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0d1117" alt="LinkedIn"/>
+  <!-- Streak Stats Card -->
+  <a href="https://github.com/FaisalWebZone">
+    <img src="https://streak-stats.demolab.com?user=FaisalWebZone&theme=nord&border=00f0ff&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff&background=0d1117" alt="GitHub Streak" width="49%"/>
   </a>
   &nbsp;
-  <a href="https://sites.google.com/view/faisalahmed49591/home">
-    <img src="https://img.shields.io/badge/Portfolio-7dd3fc?style=for-the-badge&logo=google-chrome&logoColor=0d1117" alt="Portfolio"/>
+  <!-- Profile Summary Stats Card -->
+  <a href="https://github.com/FaisalWebZone">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FaisalWebZone&theme=github_dark" alt="GitHub Stats" width="48%"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- Language Distribution Summary -->
+  <a href="https://github.com/FaisalWebZone">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FaisalWebZone&theme=github_dark" alt="Repos Per Language" width="48%"/>
   </a>
   &nbsp;
-  <a href="https://learningshaper.com/">
-    <img src="https://img.shields.io/badge/Organization-7dd3fc?style=for-the-badge&logo=building&logoColor=0d1117" alt="Organization"/>
+  <a href="https://github.com/FaisalWebZone">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FaisalWebZone&theme=github_dark" alt="Most Commit Language" width="48%"/>
   </a>
-</p>
+
+</div>
 
 ---
 
-<!-- Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%"/>
+### 🌐 Verified Links & Contact Channels
+
+<div align="center">
+
+| Channel | Link / Handle | Action |
+|:---|:---|:---|
+| 🌐 **Official Web Portfolio** | `faisalwebzone.github.io` | [Explore Portfolio](https://faisalwebzone.github.io/Faisal-Ahmed.portfolio.html) |
+| 📄 **Curriculum Vitae (CV)** | `faisal-ahmed.cv.html` | [View Official CV](https://faisalwebzone.github.io/faisal-ahmed.cv.html) |
+| 💼 **LinkedIn Profile** | `in/faisal-ahmed-4a810033a` | [Connect on LinkedIn](https://www.linkedin.com/in/faisal-ahmed-4a810033a/) |
+| 🏢 **Current Company** | `Learning Shaper Technologies Ltd` | [Visit Organization](https://learningshaper.com/) |
+| ✉️ **Primary Email** | `faisalahmed49591@gmail.com` | [Send an Email](mailto:faisalahmed49591@gmail.com) |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d2ff&height=100&section=footer" width="100%" alt="Footer Banner"/>
+</div>
 
